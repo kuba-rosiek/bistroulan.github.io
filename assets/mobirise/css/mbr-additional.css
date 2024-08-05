@@ -2045,7 +2045,7 @@ a {
   max-width: 800px;
 }
 .cid-uk9uRRgfHw H3 {
-  color: #232323;
+  color: #000000;
 }
 .cid-uk9uRRgfHw H6 {
   color: #9fe870;
@@ -2240,7 +2240,7 @@ a {
 }
 .cid-uk7sxxxjq8 .card-wrapper {
   padding: 2.25rem;
-  background: #ffffff;
+  background: #232323;
 }
 @media (min-width: 992px) and (max-width: 1200px) {
   .cid-uk7sxxxjq8 .card-wrapper {
@@ -2259,6 +2259,14 @@ a {
 }
 .cid-uk7sxxxjq8 .content-head {
   max-width: 800px;
+}
+.cid-uk7sxxxjq8 .list,
+.cid-uk7sxxxjq8 .item-wrap {
+  color: #ffffff;
+  text-align: center;
+}
+.cid-uk7sxxxjq8 .mbr-section-title {
+  color: #000000;
 }
 .cid-uk7sxxwl6Z {
   padding-top: 6rem;
