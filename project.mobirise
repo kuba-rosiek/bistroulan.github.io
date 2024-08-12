@@ -259,7 +259,7 @@
     "uniqCompNum": 20,
     "imageResize": true,
     "robotsSwitcher": true,
-    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
+    "robotsText": "User-agent: *\nDisallow:\n\n",
     "sitemapSwitcher": false,
     "siteUrl": false,
     "sitemapSwitcherAuto": "on",
