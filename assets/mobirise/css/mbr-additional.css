@@ -1351,7 +1351,7 @@ a {
 }
 @media (min-width: 768px) {
   .cid-uk7sxxthTj {
-    align-items: flex-end;
+    align-items: center;
   }
   .cid-uk7sxxthTj .row {
     justify-content: center;
@@ -1368,7 +1368,7 @@ a {
 @media (max-width: 767px) {
   .cid-uk7sxxthTj {
     -webkit-align-items: center;
-    align-items: flex-end;
+    align-items: center;
   }
   .cid-uk7sxxthTj .mbr-row {
     -webkit-justify-content: center;
